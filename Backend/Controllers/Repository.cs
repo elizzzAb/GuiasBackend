@@ -8,19 +8,31 @@
             {
                 id = 1,
                 age = new DateTime(2003,11,07),
-                name = "Elizabeth Abrego"
+                name = "Harry Styles"
             },
             new PersonaDatos()
             {
-                id = 1,
-                age = new DateTime(2003,11,07),
-                name = "Elizabeth Abrego"
+                id = 2,
+                age = new DateTime(2003,09,07),
+                name = "Niall Horan"
             },
             new PersonaDatos()
             {
-                id = 1,
-                age = new DateTime(2003,11,07),
-                name = "Elizabeth Abrego"
+                id = 3,
+                age = new DateTime(2003,10,07),
+                name = "Liam Payne"
+            },
+            new PersonaDatos()
+            {
+                id = 4,
+                age = new DateTime(2003,06,07),
+                name = "Louis Tomlinson"
+            },
+            new PersonaDatos()
+            {
+                id = 5,
+                age = new DateTime(2003,02,07),
+                name = "Zayn Malik"
             }
         };
 

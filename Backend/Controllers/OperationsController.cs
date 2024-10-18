@@ -29,7 +29,7 @@ namespace Backend.Controllers
         [HttpDelete]
         public decimal Nmas1(decimal a, decimal b)
         {
-            return a *(b + 1);
+            return a * (b + 1);
         }
     }
 }
