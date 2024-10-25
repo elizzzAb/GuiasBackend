@@ -31,5 +31,8 @@ namespace Backend.Controllers
         {
             return a * (b + 1);
         }
+
+       
+
     }
 }
